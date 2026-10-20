@@ -12,7 +12,7 @@ This repository contains my solutions and mini projects completed while working 
 
 ## Projects
 
-- [User Configuration Manager](cp1_user_configuration_manager.py)
+- [User Configuration Manager](cp1_user_configuration_manager.py) - Encrypts and decrypts text using the Caesar cipher technique.
 - [Caesar Cipher](caesar_cipher.py)
 - [Medical Data Validator](medical_data_validator.py)
 - [Number Printer](number_printer.py)
