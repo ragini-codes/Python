@@ -14,7 +14,7 @@ This repository contains my solutions and mini projects completed while working 
 
 - [User Configuration Manager](cp1_user_configuration_manager.py) - Manages user settings with functions to add, update, delete, and view configurations.
 - [Caesar Cipher](caesar_cipher.py) - Encrypts and decrypts text using the Caesar cipher technique.
-- [Medical Data Validator](medical_data_validator.py) - 
+- [Medical Data Validator](medical_data_validator.py) - Validates medical records by checking required fields, data types, and value formats.
 - [Number Printer](number_printer.py)
 - [PIN Extractor](pin_extractor.py)
 - [RPG Character](rpg_character.py)
