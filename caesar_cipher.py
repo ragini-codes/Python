@@ -22,15 +22,13 @@ def decrypt(text, shift):
     return caesar(text, shift, encrypt=False)
 '''
 #text to decrypt
-encrypted_text = "Tflcu pfl gcvrjv izuv dv yriu dfddp?"
+encrypted_text = "Kyzj zj kyv trvjri tzgyvi."
 decrypted_text=decrypt(encrypted_text,17)
 print(decrypted_text) '''
 
 #text to encrypt
-'''encrypted_text_2="I wanna."
+'''encrypted_text_2="This is the caesar cipher."
 encrypted_text_2 = encrypt(encrypted_text_2, 13)
 print(encrypted_text_2)'''
 
-s="Hello world"
-print(s.isspace())
 
